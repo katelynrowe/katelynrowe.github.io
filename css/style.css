@@ -1,0 +1,96 @@
+.nav {
+  position: fixed;
+  top: 1em;
+  z-index: 15;
+  background-color: white;
+  text-align: center;
+}
+
+.container {
+  margin-left: 1em;
+}
+
+li {
+  display: inline-block;
+  margin-right: .5em;
+  text-decoration: 200%;
+  font-weight: 700;
+  font-size: 1.5em;
+  font-family: antonio, helvetica, sans-serif;
+  text-transform: uppercase;
+}
+
+h1 {
+  padding-top: 100px;
+  padding-bottom: 10px;
+  font-size: 7.5em;
+  font-family: antonio, helvetica;
+  text-transform: uppercase;
+  color: black;
+}
+
+h2 {
+  padding-bottom: 80px;
+  font-size: 2.5em;
+  font-family: antonio, helvetica;
+  text-transform: uppercase;
+  color: black;
+}
+
+h3 {
+  padding-bottom: 20px;
+  font-size: 2em;
+  font-family: antonio, helvetica;
+  text-transform: uppercase; 
+  color: black;
+}
+
+.nav a {
+  color: black;
+}
+
+img {
+  display: inline;
+  margin-right: 2em;
+  margin-bottom: 2em;
+  background: white;
+  border: 1px black solid;
+}
+
+.digital img {
+  width: 33%;
+  margin-right: 0;
+  margin-bottom: 5px;
+}
+
+.design img {
+  height: 440px;
+  width:200px;
+}
+
+.photo img {
+  max-width: 438px;
+  margin-right: 2em
+}
+
+.section {
+  margin-bottom: 40px;
+}
+
+.links a {
+  font-family: antonio, helvetica;
+  color: grey;
+  text-transform: uppercase;
+  margin-right: 10px;
+  margin-bottom: 3px;
+}
+
+.links p {
+  font-family: antonio, helvetica;
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
+
+video {
+  margin-left: 10px;
+}
